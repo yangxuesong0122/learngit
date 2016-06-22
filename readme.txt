@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git tracks changes of file.
 my name is yangxuesong.
 create a new branch is quick and simple.
+git can merge branches.
